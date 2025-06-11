@@ -7,6 +7,8 @@
 // @match        https://www.torn.com/loader.php?sid=crimes
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=torn.com
 // @grant        none
+// @downloadURL  https://raw.githubusercontent.com/Z0nure/TornPTNplus/refs/heads/main/PickpocketTargetNotifier.user.js
+// @updateURL    https://raw.githubusercontent.com/Z0nure/TornPTNplus/refs/heads/main/PickpocketTargetNotifier.user.js
 // @license      MIT
 // ==/UserScript==
 
